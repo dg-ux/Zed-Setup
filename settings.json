@@ -21,6 +21,113 @@
   "cursor_shape": "bar",
   "cursor_blink": true,
 
+  "ui_font_family": "FiraCode Nerd Font Propo",
+  "ui_font_size": 14,
+
+  "buffer_font_family": "FiraCode Nerd Font Propo",
+  "buffer_font_size": 14,
+  "buffer_line_height": {
+    "custom": 1.5,
+  },
+
+  "tab_size": 2,
+  "hard_tabs": false,
+  "preferred_line_length": 100,
+
+  "current_line_highlight": "line",
+  "selection_highlight": true,
+  "show_whitespaces": "selection",
+
+  "indent_guides": {
+    "enabled": true,
+  },
+
+  "gutter": {
+    "line_numbers": true,
+    "min_line_number_digits": 3,
+    "folds": true,
+    "runnables": false,
+  },
+
+  "scrollbar": {
+    "show": "auto",
+  },
+
+  "git": {
+    "git_gutter": "tracked_files",
+    "inline_blame": {
+      "enabled": false,
+    },
+  },
+
+  "title_bar": {
+    "show_onboarding_banner": true,
+  },
+
+  "tab_bar": {
+    "show": true,
+  },
+
+  "toolbar": {
+    "quick_actions": true,
+  },
+
+  "project_panel": {
+    "dock": "left",
+    "default_width": 230,
+    "starts_open": true,
+    "git_status": true,
+    "hide_root": false,
+    "auto_fold_dirs": true,
+  },
+
+  "outline_panel": {
+    "default_width": 230,
+  },
+
+  "collaboration_panel": {
+    "button": false,
+  },
+
+  "format_on_save": "on",
+
+  "autosave": "off",
+
+  "show_completion_documentation": true,
+  "show_completions_on_input": true,
+  "hover_popover_enabled": true,
+
+  "auto_update": true,
+
+  "seed_search_query_from_cursor": "selection",
+
+  "restore_on_startup": "last_session",
+
+  "when_closing_with_no_tabs": "keep_window_open",
+}
+{
+  "icon_theme": "Warm Charmed Icons",
+  "theme": "Aura Dark",
+
+  "theme_overrides": {
+    "Aura Dark": {
+      "editor.document_highlight.read_background": "#00000000",
+      "editor.document_highlight.write_background": "#00000000",
+
+      "border": "#15141C",
+      "border.variant": "#15141C",
+
+      "title_bar.background": "#15141C",
+      "panel.background": "#15141C",
+      "panel.focused_border": "#4E466E",
+    },
+  },
+
+  "vim_mode": false,
+
+  "cursor_shape": "bar",
+  "cursor_blink": true,
+
   "ui_font_family": "FiraCode Nerd Font",
   "ui_font_size": 14,
 
