@@ -1,2 +1,2 @@
 # Zed-Setup
-Personal Zed-Setup
+Personal Zed-code-editor-Setup
