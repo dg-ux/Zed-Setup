@@ -101,7 +101,7 @@
 
   "seed_search_query_from_cursor": "selection",
 
-  "restore_on_startup": "last_session",
+  "restore_on_startup": "launchpad",
 
   "when_closing_with_no_tabs": "keep_window_open",
 }
